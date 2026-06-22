@@ -1,0 +1,15 @@
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.lst
+*.map
+*.uvguix.*
+*.uvgui.*
+MDK-ARM/My_Project/
+Core/Inc/*.bak
+Core/Src/*.bak
+DHT11/*.bak
+OLED/*.bak
