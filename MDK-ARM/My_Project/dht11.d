@@ -1,0 +1,10 @@
+my_project\dht11.o: ..\DHT11\DHT11.c
+my_project\dht11.o: ..\DHT11\DHT11.h
+my_project\dht11.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+my_project\dht11.o: D:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+my_project\dht11.o: .\RTE\_My_Project\RTE_Components.h
+my_project\dht11.o: ../Drivers/CMSIS/Include/core_cm3.h
+my_project\dht11.o: ../Drivers/CMSIS/Include/cmsis_version.h
+my_project\dht11.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+my_project\dht11.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+my_project\dht11.o: D:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
